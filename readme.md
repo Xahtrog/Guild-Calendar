@@ -3,7 +3,7 @@
 A Guild Wars 2 module for Blish HUD that displays your guild's events in-game by syncing with a Google Calendar.
 
 LONG LIVE MY GUILD (DEAD)! The guild in which inspired me to make this! To all of you who were here when I
-decided to make this for us, I thank you!
+decided to make this for us, I thank you! All 29 of you at this moment in time :D You Know who you are!
 
 ## Features
 * **Live Sync:** Automatically pulls events from your guild's public Google Calendar.
@@ -50,3 +50,4 @@ The "Enable Officer Tools" setting allows you to edit the calendar view locally,
 * **Error: "404 Not Found"** The calendar link is incorrect or the calendar is **Private**. Go back to Google Calendar settings and make sure "Make available to public" is checked.
 
 * **Events not showing up?** The module refreshes periodically. If you just added an event to Google Calendar, give it a few minutes to sync or toggle the module off and on.
+

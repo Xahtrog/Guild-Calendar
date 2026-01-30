@@ -2,7 +2,7 @@
   "manifest_version": 1,
   "name": "Guild Calendar",
   "version": "1.0.5",
-  "namespace": "GuildCalendar",
+  "namespace": "Gorthax.GuildCalendar",
   "package": "GuildCalendar.dll",
   "description": "Displays upcoming guild events.",
   "contributors": [
@@ -14,3 +14,4 @@
   "url": "https://github.com/Xahtrog/Guild-Calendar"
 
 }
+
